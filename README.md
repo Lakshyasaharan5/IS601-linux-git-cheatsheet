@@ -55,3 +55,5 @@ Shows status of files which are modified
 `git add *file_name*`<br>
 Stage files before committing 
 
+`git diff`<br>
+Check difference in files from already committed
