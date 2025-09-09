@@ -30,4 +30,8 @@ Copy files from one place to another<br>
 Move or rename files<br>
 `mv old.text new.txt`<br>
 
+**cat**:<br>
+Print file contents<br>
+`cat file.txt`<br>
+
 ## Git commands
