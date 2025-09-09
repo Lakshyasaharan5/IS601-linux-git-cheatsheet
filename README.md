@@ -49,3 +49,6 @@ Check commands history<br>
 ```
 
 ## Git commands
+**git status**:<br>
+Shows status of files which are modified
+
