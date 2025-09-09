@@ -18,4 +18,8 @@ Change directory<br>
 Make a new directory<br>
 `mkdir folder_name`<br>
 
+**rmdir**:<br>
+Remove an empty directory<br>
+`rmdir folder_name`<br>
+
 ## Git commands
