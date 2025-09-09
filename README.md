@@ -34,4 +34,8 @@ Move or rename files<br>
 Print file contents<br>
 `cat file.txt`<br>
 
+**grep**:<br>
+Search inside files<br>
+`grep "apple" fruits.txt`<br>
+
 ## Git commands
