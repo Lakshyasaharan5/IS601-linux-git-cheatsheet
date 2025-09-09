@@ -66,3 +66,6 @@ Push the committed changes to remote branch
 
 `git pull`<br>
 Pull the latest changes from remote to local branch
+
+`git branch`<br>
+List all the branches on local
