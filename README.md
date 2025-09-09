@@ -60,3 +60,6 @@ Check difference in files from already committed
 
 `git commit`<br>
 Commit the changes to local repo with a commit message
+
+`git push`<br>
+Push the committed changes to remote branch
