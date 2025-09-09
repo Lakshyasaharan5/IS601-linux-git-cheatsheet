@@ -2,6 +2,6 @@
 
 
 ## Linux commands
-
+1. `ls` - List directory contents
 
 ## Git commands
