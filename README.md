@@ -11,5 +11,6 @@
 7. `mv` - Move or rename files or directories
 8. `cat` - Display file contents
 9. `grep` - Search text in files
+10. `chmod` - Change file permissions
 
 ## Git commands
