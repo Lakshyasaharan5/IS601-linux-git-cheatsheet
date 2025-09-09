@@ -6,4 +6,8 @@
 Show current working directory<br>
 `/home/user/projects`<br>
 
+**ls -l**:<br>
+List files in long format<br>
+`-rw-r--r--  1 lakshyasaharan  staff  198 Sep  9 14:51 README.md`<br>
+
 ## Git commands
