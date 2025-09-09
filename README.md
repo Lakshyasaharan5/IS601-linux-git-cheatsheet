@@ -63,3 +63,6 @@ Commit the changes to local repo with a commit message
 
 `git push`<br>
 Push the committed changes to remote branch
+
+`git pull`<br>
+Pull the latest changes from remote to local branch
