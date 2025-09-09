@@ -7,5 +7,6 @@
 3. `pwd` - Print current working directory
 4. `mkdir` - Create a new directory
 5. `rm` - Remove files or directories
+6. `cp` - Copy files or directories
 
 ## Git commands
