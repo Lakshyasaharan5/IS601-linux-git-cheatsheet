@@ -14,4 +14,8 @@ List files in long format<br>
 Change directory<br>
 `cd Documents`<br>
 
+**mkdir**:<br>
+Make a new directory<br>
+`mkdir folder_name`<br>
+
 ## Git commands
