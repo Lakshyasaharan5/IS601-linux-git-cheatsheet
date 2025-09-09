@@ -22,4 +22,8 @@ Make a new directory<br>
 Remove an empty directory<br>
 `rmdir folder_name`<br>
 
+**cp**:<br>
+Copy files from one place to another<br>
+`cp file_name target_folder`<br>
+
 ## Git commands
