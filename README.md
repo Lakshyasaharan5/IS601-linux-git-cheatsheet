@@ -38,4 +38,14 @@ Print file contents<br>
 Search inside files<br>
 `grep "apple" fruits.txt`<br>
 
+**history**:<br>
+Check commands history<br>
+```bash
+ 7230  git commit -m "add linux grep command"
+ 7231  git push origin linux-command-grep
+ 7232  git checkout main
+ 7233  git merge linux-command-grep
+ 7234  git push origin main
+```
+
 ## Git commands
