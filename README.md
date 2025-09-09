@@ -57,3 +57,6 @@ Stage files before committing
 
 `git diff`<br>
 Check difference in files from already committed
+
+`git commit`<br>
+Commit the changes to local repo with a commit message
