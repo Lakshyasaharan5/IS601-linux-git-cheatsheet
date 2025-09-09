@@ -26,4 +26,8 @@ Remove an empty directory<br>
 Copy files from one place to another<br>
 `cp file_name target_folder`<br>
 
+**mv**:<br>
+Move or rename files<br>
+`mv old.text new.txt`<br>
+
 ## Git commands
